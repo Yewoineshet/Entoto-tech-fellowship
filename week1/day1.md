@@ -4,3 +4,4 @@ five things from yestrday class
 -how to create directory using cmd
 -how to create file and add content to it using cmd
 -how to delete dir in cmd
+-wongi is awesome
