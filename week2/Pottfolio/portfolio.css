@@ -1,0 +1,58 @@
+
+body{
+    font-size: 20px;
+     background-color:lightgrey;
+}
+.link{
+  text-align: left;
+}
+
+.editMitu {
+    border-radius: 50%;
+    border: 1px solid lightblue;
+    float: left;
+}
+.para1{
+     
+
+    font-size: 20px;
+    padding: 10px;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+     
+}
+
+
+li {
+    float: right;
+    border-right:1px solid #bbb;
+}
+
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+     justify-content:  flex-end;  
+}
+
+li a:hover {
+    background-color: grey;
+}
+footer {
+    text-align: left;
+}
+.editFooter{
+	display: inline-block;
+	justify-content: flex-end;
+}
+    

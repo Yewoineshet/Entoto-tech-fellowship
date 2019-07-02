@@ -1,0 +1,48 @@
+
+.flex-box{
+   
+    justify-content:space-between;
+    align-content: flex-end;
+   font-size: 30px;
+    text-decoration: none;
+}
+.vission{
+     width:100%;
+     font-size: 20px;
+     margin-left: 20px;
+	 color: green;
+	 
+ }
+.flex-box-container3{
+    display: flex;
+   
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content:first baseline;
+   margin-right: 20px;
+   margin-left: 20px;
+
+   
+}
+.flex-box-container{
+    display: flex;
+   
+    align-content: flex-end;
+    flex-direction: row-reverse;
+    justify-content:space-between;
+    margin-right: 100px;
+    margin-top: 30px;
+
+   
+}
+
+.flex-box-container2{
+    display: flex;
+     width:100%;
+    align-items: flex-start;
+    flex-direction: row;
+   justify-content : space-between;
+   margin-right: 20px;
+   margin-left: 20px;
+   background-image: url("Ertale");
+}

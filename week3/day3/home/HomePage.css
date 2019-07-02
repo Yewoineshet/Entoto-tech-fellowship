@@ -1,0 +1,90 @@
+.Logo {
+  
+    display: inline-block;
+	flex-direction: row;
+}
+
+#green {
+    background-color: green;
+	  height: 25px;
+    width: 100px;
+}
+
+#yellow {
+    background-color: yellow;
+	  height: 25px;
+    width: 100px;
+}
+
+#red {
+    background-color: red;
+	 height: 25px;
+    width: 100px;
+}
+.navBar{
+     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+
+}
+
+
+img {
+    border-radius: 50%;
+    border: 1px solid lightblue;
+	
+}
+
+.flex-box-container{
+    display: flex;
+   
+    align-content: flex-end;
+    flex-direction: row-reverse;
+    justify-content:space-between;
+    margin-right: 100px;
+    margin-top: 30px;
+
+   
+}
+.flex-box-container2{
+    display: flex;
+   
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content:space-between;
+   margin-right: 10px;
+   margin-left: 10px;
+
+   
+}
+
+.flex-box-container3{
+    display: flex;
+   
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content:first baseline;
+   margin-right: 10px;
+   margin-left: 10px;
+
+   
+}
+.flex-box{
+   
+    justify-content:space-between;
+    align-content: flex-end;
+}
+a{
+    font-size: 30px;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+ .pa  {
+     width : 18%;
+     margin-top: 50px;
+     font-size: 17px;
+	 
+ }
